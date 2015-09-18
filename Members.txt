@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 89
  
 Alex Peters
+
+Brief Introduction:
+
+Role in project: programmer
+
+Preferred branch of engineering: Civil
  
 Rob Lowe
  
