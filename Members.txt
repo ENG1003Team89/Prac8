@@ -17,6 +17,14 @@ Role in project: meeting co-ordinator
 Preferred branch of engineering: Chemical
  
 Jet Luo
+
+ 
+Brief introduction
+ 
+Role in project: (e.g. team leader, assignment uploader, programmer, etc)
+ 
+Preferred branch of engineering: (e.g. civil, mechanical, etc)
+ 
  
 Nick Cowan
 	I am from Tasmania
