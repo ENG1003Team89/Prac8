@@ -1,8 +1,20 @@
 LIST OF MEMBERS FOR TEAM 89
  
 Alex Peters
+
+Brief Introduction:
+
+Role in project: programmer
+
+Preferred branch of engineering: Civil
  
 Rob Lowe
+
+Brief Introduction
+
+Role in project: meeting co-ordinator
+
+Preferred branch of engineering: Chemical
  
 Jet Luo
 
@@ -15,3 +27,6 @@ Preferred branch of engineering: (e.g. civil, mechanical, etc)
  
  
 Nick Cowan
+	I am from Tasmania
+	Role: don't know yet
+	Preferred branch of engineering: Chemical/ mechanical
